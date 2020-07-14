@@ -1,4 +1,7 @@
-### Hi there 👋
+### 
+There isn't much original work of interest here. It's mainly just where I work on pull requests to Joomla
+
+
 
 <!--
 **brianteeman/brianteeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
