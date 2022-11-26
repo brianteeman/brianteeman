@@ -1,7 +1,6 @@
 ### 
 There isn't much original work of interest here. It's mainly just where I work on pull requests to Joomla
 
-<img src ="https://github-readme-stats.vercel.app/api?username=brianteeman&show_icons=true&theme=radical" alt ="Github stats">
 
 [![@brianteeman's Holopin board](https://holopin.me/brianteeman)](https://holopin.io/@brianteeman)
 
